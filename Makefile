@@ -4,7 +4,7 @@ RM	=	rm -f
 
 SRC	=	src/
 
-SRCS	=	$(SRC)main.cpp \
+SRCS	=	$(SRC)main.cpp
 
 OBJ	=	$(SRCS:.cpp=.o)
 
